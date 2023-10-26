@@ -1,4 +1,5 @@
-<h1 align="center"> <img src= "https://github.com/funSuicide/funSuicide/blob/main/resources/animesher.com_tokyo-ghoul-rize-animated-gif-1020241.gif"/></h1>
+
+<p align="center"> <img src= "https://github.com/funSuicide/funSuicide/blob/main/resources/animesher.com_tokyo-ghoul-rize-animated-gif-1020241.gif"></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF42F7&width=435&lines=Hello%5E_%5E+I'm++funSuicide!" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF42F7&repeat=false&width=435&lines=Languages+and+technologies%3A" alt="Typing SVG" /></a>
@@ -19,4 +20,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F268F&width=435&lines=%3EInformation+security" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=571E71&width=435&lines=%3EosDev" alt="Typing SVG" /></a>
 
-<h1 align="center"> <img src= "https://github.com/funSuicide/funSuicide/blob/main/resources/kazehana-anime.gif.jpg"/></h1>
+<p align="center"> <img src= "https://github.com/funSuicide/funSuicide/blob/main/resources/kazehana-anime.gif.jpg"/></p>
